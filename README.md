@@ -1,14 +1,23 @@
-**How the Data Was Collected:**
-User Search: Using GitHub’s search API, we retrieved users located in Stockholm with over 100 followers. For each user, additional profile information was fetched
-Repository Fetching: For each user, up to 500 of the most recently pushed public repositories were collected.
-Data Cleaning: Certain fields, like company, were cleaned for consistency. Leading @ symbols were removed, and company names were capitalized.
-Saving Data: Data was saved in CSV format as users.csv and repositories.csv.
+>**How the Data Was Collected:** 
 
-Key Insights and Analysis:
+**User Search:** Using GitHub’s search API, we retrieved users located in Stockholm with over 100 followers. For each user, additional profile information was fetched
+
+**Repository Fetching:** For each user, up to 500 of the most recently pushed public repositories were collected.
+
+**Data Cleaning:** Certain fields, like company, were cleaned for consistency. Leading @ symbols were removed, and company names were capitalized.
+
+**Saving Data:** Data was saved in CSV format as users.csv and repositories.csv.
+
+
+**Key Insights and Analysis:**
+
 Analyzing this dataset revealed interesting patterns:
-Popular Languages: Python, JavaScript, and TypeScript were among the most common languages used by Stockholm-based developers.
-Open-source Activity: A significant portion of users are actively contributing to open-source projects, with many repositories having a substantial number of stars and followers.
-Company Affiliations: Several users are affiliated with leading technology companies or well-established startups, contributing regularly to high-profile projects.
+
+**Popular Languages:** Python, JavaScript, and TypeScript were among the most common languages used by Stockholm-based developers.
+
+**Open-source Activity:** A significant portion of users are actively contributing to open-source projects, with many repositories having a substantial number of stars and followers.
+
+**Company Affiliations:** Several users are affiliated with leading technology companies or well-established startups, contributing regularly to high-profile projects.
 
 Recommendations:
 Based on the findings, here are some actionable insights for developers:
