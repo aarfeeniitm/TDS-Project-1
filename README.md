@@ -9,7 +9,7 @@
 **Saving Data:** Data was saved in CSV format as users.csv and repositories.csv.
 
 
-**Key Insights and Analysis:**
+>**Key Insights and Analysis:**
 
 Analyzing this dataset revealed interesting patterns:
 
@@ -19,10 +19,13 @@ Analyzing this dataset revealed interesting patterns:
 
 **Company Affiliations:** Several users are affiliated with leading technology companies or well-established startups, contributing regularly to high-profile projects.
 
-Recommendations:
+>**Recommendations:**
+
 Based on the findings, here are some actionable insights for developers:
-Focus on Popular Languages: Developers interested in networking with Stockholm-based GitHub users should consider projects in Python, JavaScript, or TypeScript, as these languages are prevalent within the community.
-Open-source Contributions: Engaging in open-source projects could increase visibility and followers, especially given the high engagement with open-source seen in the Stockholm developer community.
+
+**Focus on Popular Languages:** Developers interested in networking with Stockholm-based GitHub users should consider projects in Python, JavaScript, or TypeScript, as these languages are prevalent within the community.
+
+**Open-source Contributions:** Engaging in open-source projects could increase visibility and followers, especially given the high engagement with open-source seen in the Stockholm developer community.
 
 
 
