@@ -1,4 +1,4 @@
-How the Data Was Collected:
+**How the Data Was Collected:**
 User Search: Using GitHub’s search API, we retrieved users located in Stockholm with over 100 followers. For each user, additional profile information was fetched
 Repository Fetching: For each user, up to 500 of the most recently pushed public repositories were collected.
 Data Cleaning: Certain fields, like company, were cleaned for consistency. Leading @ symbols were removed, and company names were capitalized.
