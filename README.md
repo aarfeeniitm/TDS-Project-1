@@ -1,4 +1,12 @@
->**How the Data Was Collected:** 
+# TDS-Project-1
+**Project Overview**
+
+This project retrieves and analyzes data on GitHub users based in Stockholm who have over 100 followers. Using the GitHub API, we collected and processed user information, as well as data on up to 500 of each user’s most recent public repositories. The results are provided in CSV files and summarized for easy analysis.
+
+
+
+
+# **How the Data Was Collected:** 
 
 **User Search:** Using GitHub’s search API, we retrieved users located in Stockholm with over 100 followers. For each user, additional profile information was fetched
 
@@ -9,7 +17,7 @@
 **Saving Data:** Data was saved in CSV format as users.csv and repositories.csv.
 
 
->**Key Insights and Analysis:**
+# **Key Insights and Analysis:**
 
 Analyzing this dataset revealed interesting patterns:
 
@@ -19,7 +27,7 @@ Analyzing this dataset revealed interesting patterns:
 
 **Company Affiliations:** Several users are affiliated with leading technology companies or well-established startups, contributing regularly to high-profile projects.
 
->**Recommendations:**
+# **Recommendations:**
 
 Based on the findings, here are some actionable insights for developers:
 
